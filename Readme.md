@@ -5,4 +5,5 @@
 - Simulated Annealing
 - Tug Of War
 
-using jupyter.
+using jupyter and python.
+to be cleaned.
